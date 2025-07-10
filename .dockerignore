@@ -1,0 +1,6 @@
+Dockerfile
+docker-compose.yml
+nginx/
+.dockerignore
+README.md
+.env.example
