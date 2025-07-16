@@ -4,6 +4,6 @@ use App\Models\User;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return 'dcm111111111';
+    return 'hehehiepdz';
     return User::all();
 });
